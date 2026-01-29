@@ -7,6 +7,7 @@ toolchain go1.24.12
 require (
 	github.com/caarlos0/env/v11 v11.3.1
 	github.com/go-delve/delve v1.26.0
+	github.com/lib/pq v1.11.0
 )
 
 require (
